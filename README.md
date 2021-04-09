@@ -20,7 +20,7 @@ Here the brightness of a LED is controlled with a potentiometer. The pot value i
 
 [led selection:](https://github.com/gcastroid/TM4C-CCS/tree/main/ledKey) 
 
-This project uses the board key to control which led is on. The timer interrupt is used to debounce the switch, that each time that it's pressed selects from eight options (R on, G on, B on, RG on, RB on, GB on, RGB on and all leds off).
+This project uses the board key to control which led is on. The timer interrupt is used to debounce the switch, and each time that it's pressed selects from eight options (R on, G on, B on, RG on, RB on, GB on, RGB on and all leds off).
 
 [uart com w/ PC:](https://github.com/gcastroid/TM4C-CCS/tree/main/ledUart) 
 
